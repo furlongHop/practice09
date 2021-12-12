@@ -48,7 +48,7 @@ public class Goods {
 	}
 
 	public void showInfo() {
-		System.out.println(this.name+"(가격:"+this.price+"원)이 "+this.count+" 개 입고 되었습니다.");
+		System.out.println(this.name+"(가격:"+this.price+"원)이/가 "+this.count+" 개 입고 되었습니다.");
 	}
 	
 
