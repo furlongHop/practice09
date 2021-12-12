@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class GoodsApp {
 
-	//고민헤보기: 이 상태에선 try catch 예외 상황 처리 코드를 어떻게 삽입해야할까?
+	//고민해보기: 이 상태에선 try catch 예외 상황 처리 코드를 어떻게 삽입해야할까?
     public static void main(String[] args){
 
     	List<Goods> gList = new ArrayList<Goods>();
